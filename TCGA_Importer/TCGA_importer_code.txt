@@ -1,0 +1,1 @@
+TCGAImporter.result <- run.analysis(gp, "urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00369:5.2", manifest="gdc_manifest_20190110_205847.txt", metadata="metadata.cart.2019-01-10.json", output_file_name="TCGA_dataset", gct="True", translate_gene_id="True", cls="True")
