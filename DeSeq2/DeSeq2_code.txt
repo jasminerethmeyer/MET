@@ -1,0 +1,1 @@
+DESeq2.result <- run.analysis(gp, "urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00362:0.4.2", input.file="TCGA_dataset_tumor_only.preprocessed.gct", cls.file="TCGA_LUAD_MET_mut_classes.cls", confounding.variable.cls.file="", output.file.base="<input.file_basename>", qc.plot.format="pdf", fdr.threshold="0.1", top.N.count="100", random.seed="779948241")
