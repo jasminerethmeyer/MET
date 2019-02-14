@@ -1,0 +1,107 @@
+WARNING: ignoring environment value of R_HOME
+R version 3.2.5 (2016-04-14)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Debian GNU/Linux 8 (jessie)
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+attached base packages:
+[1] parallel  stats4    methods   stats     graphics  grDevices utils    
+[8] datasets  base     
+
+other attached packages:
+ [1] DESeq2_1.10.1              RcppArmadillo_0.7.200.2.0 
+ [3] Rcpp_0.12.6                SummarizedExperiment_1.0.2
+ [5] Biobase_2.30.0             GenomicRanges_1.22.4      
+ [7] GenomeInfoDb_1.6.3         IRanges_2.4.8             
+ [9] S4Vectors_0.8.11           BiocGenerics_0.16.1       
+[11] optparse_1.4.4             getopt_1.20.0             
+
+loaded via a namespace (and not attached):
+ [1] RColorBrewer_1.1-2   futile.logger_1.4.3  plyr_1.8.4          
+ [4] XVector_0.10.0       futile.options_1.0.0 zlibbioc_1.16.0     
+ [7] rpart_4.1-10         RSQLite_1.0.0        annotate_1.48.0     
+[10] gtable_0.2.0         lattice_0.20-33      DBI_0.4-1           
+[13] gridExtra_2.2.1      genefilter_1.52.1    cluster_2.0.3       
+[16] locfit_1.5-9.1       grid_3.2.5           nnet_7.3-12         
+[19] data.table_1.9.6     AnnotationDbi_1.32.3 XML_3.98-1.4        
+[22] survival_2.38-3      BiocParallel_1.4.3   foreign_0.8-66      
+[25] latticeExtra_0.6-28  Formula_1.2-1        geneplotter_1.48.0  
+[28] ggplot2_2.1.0        lambda.r_1.1.9       Hmisc_3.17-4        
+[31] scales_0.4.0         splines_3.2.5        xtable_1.8-2        
+[34] colorspace_1.2-6     acepack_1.3-3.3      munsell_0.4.3       
+[37] chron_2.3-47        
+$options
+$options$input.file
+[1] "/opt/gpbeta/gp_home/users/jasminemcquerry/uploads/tmp/run2049969877275439571.tmp/input.file/1/TCGA_dataset_tumor_only.preprocessed.gct"
+
+$options$cls.file
+[1] "/opt/gpbeta/gp_home/users/jasminemcquerry/uploads/tmp/run4273938647318125560.tmp/cls.file/2/TCGA_LUAD_MET_mut_classes.cls"
+
+$options$output.file.base
+[1] "TCGA_dataset_tumor_only.preprocessed"
+
+$options$qc.plot.format
+[1] "pdf"
+
+$options$fdr.threshold
+[1] 0.1
+
+$options$top.N.count
+[1] 100
+
+$options$random.seed
+[1] 779948241
+
+$options$help
+[1] FALSE
+
+
+$args
+[1] "/opt/gpbeta/gp_home/taskLib/DESeq2.0.4.2.286/"
+
+[1] "Generating QC plots: TCGA_dataset_tumor_only.preprocessed.Exon_14.vs.Other"
+R version 3.2.5 (2016-04-14)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Debian GNU/Linux 8 (jessie)
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+attached base packages:
+[1] parallel  stats4    methods   stats     graphics  grDevices utils    
+[8] datasets  base     
+
+other attached packages:
+ [1] DESeq2_1.10.1              RcppArmadillo_0.7.200.2.0 
+ [3] Rcpp_0.12.6                SummarizedExperiment_1.0.2
+ [5] Biobase_2.30.0             GenomicRanges_1.22.4      
+ [7] GenomeInfoDb_1.6.3         IRanges_2.4.8             
+ [9] S4Vectors_0.8.11           BiocGenerics_0.16.1       
+[11] optparse_1.4.4             getopt_1.20.0             
+
+loaded via a namespace (and not attached):
+ [1] RColorBrewer_1.1-2   futile.logger_1.4.3  plyr_1.8.4          
+ [4] XVector_0.10.0       futile.options_1.0.0 zlibbioc_1.16.0     
+ [7] rpart_4.1-10         RSQLite_1.0.0        annotate_1.48.0     
+[10] gtable_0.2.0         lattice_0.20-33      DBI_0.4-1           
+[13] gridExtra_2.2.1      genefilter_1.52.1    cluster_2.0.3       
+[16] locfit_1.5-9.1       grid_3.2.5           nnet_7.3-12         
+[19] data.table_1.9.6     AnnotationDbi_1.32.3 XML_3.98-1.4        
+[22] survival_2.38-3      BiocParallel_1.4.3   foreign_0.8-66      
+[25] latticeExtra_0.6-28  Formula_1.2-1        geneplotter_1.48.0  
+[28] ggplot2_2.1.0        lambda.r_1.1.9       Hmisc_3.17-4        
+[31] scales_0.4.0         splines_3.2.5        xtable_1.8-2        
+[34] colorspace_1.2-6     acepack_1.3-3.3      munsell_0.4.3       
+[37] chron_2.3-47        
